@@ -1,7 +1,7 @@
 import requests
 
 # Your Dev.to API key
-api_key = 'npWUegKufgTMzqERFRZaos68'
+api_key = 'YOUR_DEVTO_API_KEY'
 
 # Read the article content from the Markdown file
 with open('devto_article.md', 'r') as file:
